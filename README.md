@@ -9,6 +9,9 @@
 `pip install graphene-django` - для винды
 `pip3 install graphene-django` - для линукса
 
+`pip install django-cors-headers` - для винды
+`pip3 install django-cors-headers` - для линукса
+
 войти в папку проекта
 `cd evg`
 
